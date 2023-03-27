@@ -15,10 +15,10 @@
 <br />
 <h2 align="left" font-weight="bold">About me</h2>
 <p>
-I’m a Senior Front-End Developer. Ahmed can build complete responsive web pages .
+I’m a Senior Front-End Developer.Esraa can build complete responsive web pages .
 Specialize in building cross-browser compatible web user interfaces using style guide development 
  approach and components standardization.
- Ahmed is passionate about elegant user interfaces, resolving usability issues, and prototype user testing. 
+ Esraa is passionate about elegant user interfaces, resolving usability issues, and prototype user testing. 
  Excited about designing and developing the product, considering tons of UX peculiarities, and using 
  innovative technologies.
 </p>
